@@ -1,4 +1,4 @@
-# myapp
+# fanned-cards-test-flutter
 
 A new Flutter project.
 
