@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:myapp/pages/home_page.dart';
+import 'package:fannedcardstestflutter/pages/home_page.dart';
 
 void main() {
   runApp(const MyApp());
